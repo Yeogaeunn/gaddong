@@ -47,5 +47,3 @@ public class OverrideTest {
         v.show();
     }
 }
-[출처] 쉽게 배우는 자바 프로그래밍 6장 프로그래밍 문제 6번|작성자 philo
-
