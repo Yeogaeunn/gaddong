@@ -36,5 +36,4 @@ public class AbstractTest {
 	}
 
 }
-[출처] [쉽게배우는자바프로그래밍] 7장 프로그래밍 문제|작성자 초록비
 
