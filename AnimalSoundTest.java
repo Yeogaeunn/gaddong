@@ -37,4 +37,3 @@ class Cuckoo implements Animal{
         System.out.println("뻐꾹뻐꾹~~");
     }
 }
-[출처] [8장, 9장] 쉽게 배우는 자바 프로그래밍 - 도전과제 & 프로그래밍 문제|작성자 박예림
